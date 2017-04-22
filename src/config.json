@@ -1,6 +1,6 @@
 {
 	"nick": "HackChatBot",
-	"channel": "botDev",
+	"channel": "centrus",
 	"cmdPrefix": "/",
 	"url": "wss://hack.chat/chat-ws:22"
 }
